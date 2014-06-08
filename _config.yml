@@ -1,0 +1,10 @@
+# Site settings
+title: Chelo's page
+email: unoryche@gmail.com
+description: "I'm a computer engineer lover for programming...love dance.. animals...just me"
+baseurl: ""
+url: "http://chelo.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
