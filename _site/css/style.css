@@ -1358,3 +1358,9 @@ a,a:visited {color: #333; text-decoration: none; outline: 0; -webkit-transition:
     font-size: 12px;
     text-align: center;
 }
+.subtitle{
+    color: #c71c77;
+}
+.center_tittle{
+    text-align: center;
+}
